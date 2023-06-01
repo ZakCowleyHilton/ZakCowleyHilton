@@ -6,7 +6,7 @@
   - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Charts and Dashboards Using Microsoft Excel](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>SQL</b>
-  - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)SQL Basic Querying 
+  - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
 - <b>Python</b>
   - [COVID19-Data-Analysis-Using-Python](https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb)
   
