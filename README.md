@@ -8,6 +8,7 @@
 - <b>SQL</b>
 
 - <b>Python</b>
+  - [COVID19-Data-Analysis-Using-Python](pythonDataCovid/covid19 data analysis notebook.ipynb)
   
 - <b>Tableau</b>
   
