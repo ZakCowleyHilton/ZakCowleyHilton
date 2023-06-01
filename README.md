@@ -4,7 +4,7 @@
 
 - <b>Excel</b>
   - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md)
-  - [Charts and Dashboards Using Microsoft Excel](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Charts and Dashboards Using Microsoft Excel](https://github.com/ZakCowleyHilton/Charts-and-Dashboards-Using-Microsoft-Excel/blob/main/README.md)
 - <b>SQL</b>
   - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
 - <b>Python</b>
