@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Excel</b>
-  - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md)
   - [Charts and Dashboards Using Microsoft Excel](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>SQL</b>
   - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
