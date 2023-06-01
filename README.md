@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zak! </h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Excel</b>
   - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/joshmadakor1/Sentinel-Lab)
