@@ -2,18 +2,19 @@
 
 <h2>👨‍💻 Portfolio Projects:</h2>
 
-- <b>Excel</b>
+- <h3>Excel</h3>
   - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md)
   - [Charts and Dashboards Using Microsoft Excel](https://github.com/ZakCowleyHilton/Charts-and-Dashboards-Using-Microsoft-Excel/blob/main/README.md)
-- <b>SQL</b>
+- <h3>SQL</h3>
   - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
-- <b>Python</b>
+  - [Database Creation & SQL Data Filtering](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
+- <h3>Python</h3>
   - [COVID19-Data-Analysis-Using-Python](https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb)
   
   
-- <b>Tableau</b>
+- <h3>Tableau</h3>
   
-- <b>Machine Learning</b>
+- <h3>Machine Learning</h3>
 
 
 
