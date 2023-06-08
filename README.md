@@ -2,19 +2,33 @@
 
 <h2>👨‍💻 Portfolio Projects:</h2>
 
-- <h3>Excel</h3>
-  - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md)
-  - [Charts and Dashboards Using Microsoft Excel](https://github.com/ZakCowleyHilton/Charts-and-Dashboards-Using-Microsoft-Excel/blob/main/README.md)
-- <h3>SQL</h3>
-  - [SQL Basic Querying For Business Questions](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
-  - [Database Creation & SQL Data Filtering](https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md)
-- <h3>Python</h3>
-  - [COVID19-Data-Analysis-Using-Python](https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb)
+<h3>Excel</h3>
+<ul>
+  <li><a href="https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md">Data Cleaning in Excel - Techniques to Clean Messy Data</a></li>
+  <li><a href="https://github.com/ZakCowleyHilton/Charts-and-Dashboards-Using-Microsoft-Excel/blob/main/README.md">Charts and Dashboards Using Microsoft Excel</a></li>
+</ul>
+<h3>SQL</h3>
+<ul>
+  <li><a href="https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md">SQL Basic Querying For Business Questions</a></li>
+  <li><a href="https://github.com/ZakCowleyHilton/SQL-Basic-Querying/blob/main/README.md">Database Creation & SQL Data Filtering</a></li>
+</ul>
+<h3>Python</h3>
+<ul>
+  <li><a href="https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb">COVID19-Data-Analysis-Using-Python</a></li>
+</ul>
   
+
+<h3>Tableau</h3>
+<ul>
+  <!-- <li><a href=""></a></li>-->
+   
+</ul>
   
-- <h3>Tableau</h3>
-  
-- <h3>Machine Learning</h3>
+<h3>Machine Learning</h3>
+<ul>
+  <!-- <li><a href=""></a></li>-->
+   
+</ul>
 
 
 
