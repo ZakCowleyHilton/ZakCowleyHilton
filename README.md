@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zak! </h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Portfolio Projects:</h2>
 
 - <b>Excel</b>
   - [Data Cleaning in Excel - Techniques to Clean Messy Data](https://github.com/ZakCowleyHilton/Data-Cleaning-in-Excel---Techniques-to-Clean-Messy-Data/blob/main/README.md)
