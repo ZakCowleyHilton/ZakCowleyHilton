@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zak! </h1>
 
-<h2>👨‍💻 Portfolio Projects:</h2>
+<h2>Portfolio Projects: 👨‍💻 </h2>
 
 <h3>Excel</h3>
 <ul>
