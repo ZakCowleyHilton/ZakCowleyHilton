@@ -15,6 +15,7 @@
 <h3>Python</h3>
 <ul>
   <li><a href="https://github.com/ZakCowleyHilton/COVID19-Data-Analysis-Using-Python/blob/main/pythonDataCovid/covid19%20data%20analysis%20notebook.ipynb">COVID19-Data-Analysis-Using-Python</a></li>
+  <li><a href="https://github.com/ZakCowleyHilton/Rock-Paper-Scissors">Rock,Paper,Scissors against the computer!</a></li>
 </ul>
   
 
